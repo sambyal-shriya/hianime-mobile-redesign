@@ -6,7 +6,7 @@ A conceptual mobile UI/UX redesign for the **HiAnime** platform. This project fo
 
 ## 📱 UI Preview
 
-![HiAnime Home Page Mockup](./mockups/hianime_home.png)
+![HiAnime Home Page Mockup](./mockup/hianime_home.png)
 
 ---
 
